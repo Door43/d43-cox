@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cox:home|Door43 (cox)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cox|d43-cox repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cox/archive/master.zip|d43-cox.zip]]
+
+**Recent Changes**
+{{changes>ns = cox}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cox|Ethnologue data]]
+
